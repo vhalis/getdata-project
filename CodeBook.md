@@ -1,4 +1,4 @@
-Human Activity Recognition Using Smartphones Data Cleaning Project
+Codebook for Human Activity Recognition Using Smartphones Data Cleaning Project
 ===============================================================================
 
 |POSITION       |VARIABLE NAME                  |VARIABLE OR EXPLANATION                                        |VALUES
